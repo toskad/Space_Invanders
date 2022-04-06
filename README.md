@@ -1,2 +1,5 @@
 ﻿# Space Invanders
- hra v pythonu
+
+Známa retro hra udělaná v Pythonu.
+
+-školní úkol-
